@@ -1,0 +1,11 @@
+Tema-Laborator 4
+
+Tema 4.1.  Fiind dat un sir de n numere întregi memorate într-un vector si o valoare x, gasiti valoarea din sir cea mai apropiata de x. Afisati si pozitia sa în sir.
+
+Tema 4.2. Sa se scrie un program care citeste de la tastatura notele la disciplina "Programare procedurala" ale unei grupe de 25 de studenti. Programul va afisa câti studenti au promovat, respectiv nepromovat, si media generala a grupei, la care se iau în considerare doar mediile celor care au promovat. De asemenea, sa se calculeze, în procente, câti studenti au luat note între 5-6, 7-8, 9-10.
+
+Tema 4.3. Consideram un sir cu n - 1 valori distincte din multimea {1, 2, ... , n}. Sa se determine, folosind un numar cât mai mic de comparatii, valoarea care lipseste din sir.
+
+Tema 4.4. Se citesc de la tastatura un numar n de numere întregi si se stocheaza într-un vector. Sa se calculeze si sa se afiseze suma numerelor de la pozitiile de forma 3k+1 din vector.
+
+Tema 4.5. Se citesc  n numere de la tastatura si se stocheaza într-un vector. Sa se numere câte dintre acestea sunt pare, câte impare si câte divizibile cu 3
