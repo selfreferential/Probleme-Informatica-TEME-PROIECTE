@@ -1,0 +1,14 @@
+Tema - Laborator 3
+
+
+Tema  3.1. Sa se verifice daca un numar este palindrom (un numar este palindrom daca este egal cu inversul sau, de exemplu, 1221, 2332, 7, 313 sunt palindrom).
+
+Tema 3.2. Sa se citeasca de la tastatura un numar natural n si o cifra k. Eliminati din numar cifra k. De exemplu, daca se introduc n = 121157 si k = 1, trebuie sa rezulte numarul 257.
+
+Tema 3.3. Sa se afiseze toate numerele impare cuprinse între 21 si 70.
+
+Tema 3.4. Sa se afiseze toate numerele de forma 3xx3 care sunt divizibile cu 3.
+
+Tema 3.5. Sa se afiseze toate perechile de numere x si y cu proprietatea  x + y = 150, x este divizibil cu 7 si y cu 11.
+
+Tema 3.6. Sa se afiseze toti divizorii naturali ai unui numar natural n.
