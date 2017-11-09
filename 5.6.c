@@ -38,3 +38,5 @@ main ()
     printf("Este patrat magic\n");
     return 0;
 }
+//Aflam daca matricea este
+//patrat perfect
