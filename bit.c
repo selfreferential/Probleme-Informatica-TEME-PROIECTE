@@ -13,3 +13,4 @@ int main ()
     }
     return 0;
 }
+// Genereaza puterile lui 2 pana la n
