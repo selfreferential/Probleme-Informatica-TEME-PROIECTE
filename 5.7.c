@@ -27,3 +27,4 @@ main ()
     }
     return 0;
 }
+// Afiseaza indicii coloanelor de suma maxima
