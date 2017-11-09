@@ -5,10 +5,76 @@ Tema  3.1. Sa se verifice daca un numar este palindrom (un numar este palindrom
 
 Tema 3.2. Sa se citeasca de la tastatura un numar natural n si o cifra k. Eliminati din numar cifra k. De exemplu, daca se introduc n = 121157 si k = 1, trebuie sa rezulte numarul 257.
 
-Tema 3.3. Sa se afiseze toate numerele impare cuprinse �ntre 21 si 70.
+Tema 3.3. Sa se afiseze toate numerele impare cuprinse între 21 si 70.
 
 Tema 3.4. Sa se afiseze toate numerele de forma 3xx3 care sunt divizibile cu 3.
 
 Tema 3.5. Sa se afiseze toate perechile de numere x si y cu proprietatea  x + y = 150, x este divizibil cu 7 si y cu 11.
 
 Tema 3.6. Sa se afiseze toti divizorii naturali ai unui numar natural n.
+
+SUPLIMENT TEMA LABORATOR 3
+
+Tema 3.7. Să se verifice dacă un număr natural n este prim (un număr este prim dacă are exact doi divizori, pe 1 şi pe el însuşi).
+
+Tema 3.8. Să se afişeze primele n numere prime.
+
+Tema 3.9. Să se citească de la tastatură un număr natural n şi un număr prim k. Să se calculeze la ce putere apare k ^în descompunerea în factori primi a numărului n.
+
+Tema 3.10. Să se afişeze descompunerea în factori primi a unui număr natural n.
+
+Tema 3.11. Să se citească de la tastatură n numere întregi şi să se calculeze media arimetică a acestora.
+
+Tema  3.12. Să se citească de la tastatură n numere întregi şi să se calculeze valoarea minimă introdusă.
+
+Tema 3.13. Pentru n dat, să se afişeze la consolă următoarele n linii, unde pe ultima linie sunt n caractere *.
+
+*
+
+**
+
+***
+
+. . .
+
+*** . . . *
+
+Tema 3.14. Pentru n dat, să se afişeze la consolă următoarele n linii, unde pe ultima linie este un singur caracter *.
+
+*** . . . *
+
+. . .
+
+***
+
+**
+
+*
+
+Tema 3.15. Să se citească de la tastatură două numere întregi, n şi x. Să se introducă de la tastatură alte n numere întregi şi să se calculeze de câte ori apare valoarea lui x în şirul de numere (frecvenţa de apariţie a unui număr într-un şir de numere).
+
+Tema 3.16. Să se citească de la tastatură numere întregi până la întâlnirea valorii  0 şi să se calculeze suma acestora.
+
+Tema 3.17. Să se citească de la tastatură numere întregi până la întâlnirea lui 0 şi să se calculeze valoarea maximă introdusă.
+
+Tema  3.18. Scrieţi un program care afişează la consolă un meniu după următorul scenariu:
+
+1. la rularea programului, utilizatorului i se va afişa meniul
+
+(a) apăsaţi tasta 1 pentru a introduce un număr de la tastatură
+
+(b) apăsaţi tasta 2 pentru a verifica dacă ultimul număr introdus este par
+
+(c) apăsaţi tasta 3 pentru a verifica dacă ultimul număr introdus este palindrom
+
+(d) apăsaţi tasta 0 pentru ieşire
+
+2. În cazul apăsării tastei 1, utilizatorului i se va permite să introducă un număr şi i se va afişsa din nou meniul de mai sus
+
+3. În cazul apăsării tastelor 2 sau 3, se vor face verificările cerute şi se va afişa un mesaj corespunzător; dacă nu a fost introdus nici un număr până la apăsarea tastelor 2 sau 3 se va afişa un mesaj corespunzător;
+
+În ambele cazuri se va afişa din nou meniul de mai sus
+
+4. programul se opreşte la apăsarea tastei 0.
+
+Indicaţie. Programul poate  fi structurat astfel: se afişază meniul şi i se permite utilizatorului să introducă o opţiune; cât timp opţiunea introdusă de utilizator este diferită de 0 (while), se verifică valoarea introdusă şi se aplică unul dintre paşii descrişi mai sus; înainte de a se încheia iteraţia se mai afişează încă o dată meniul şi utilizatorul introduce o opţiune nouă.
