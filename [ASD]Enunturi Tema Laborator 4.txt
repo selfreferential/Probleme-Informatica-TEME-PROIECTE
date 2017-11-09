@@ -1,34 +1,0 @@
-Tema - Laborator 4
-Tema 4.1. Sa se citeasca de la tastatura n numere întregi, cu 1 < n < 50 si sa se memoreze într-un vector. Calculati numarul de elemente nule din vector.
-
-Tema 4.2. Sa se citeasca de la tastatura n numere întregi, cu 1 < n < 50 si sa se memoreze într-un vector. Calculati valoarea maxima din vector.
-
-Tema 4.3. Sa se citeasca de la tastatura n numere întregi, cu 1 < n < 50 si sa se memoreze într-un vector. Afisati pozitiile pe care se afla valoarea minima din vector.
-
-Tema 4.4. Sa se citeasca de la tastatura n numere întregi, cu 1 < n < 100 si sa se memoreze într-un vector. Afisati numerele stocate în vector  în ordinea inversa memorarii acestora.
-
-Tema 4.5. Se introduc succesiv numere pâna la întâlnirea lui 0, dar nu mai multe de 1000. Sa se memoreze numerele introduse într-un vector si sa se calculeze media lor aritmetica.
-
-Tema 4.6. Se introduc succesiv numere pâna la întâlnirea lui 0, dar nu mai multe de 100. Sa se memoreze numerele introduse într-un vector si sa se calculeze numarul de elemente pare.
-
-SUPLIMENT
-
-Tema  4.7. Se introduc succesiv numere pâna la întâlnirea lui 0, dar nu mai multe de 100. Sa se memoreze numerele introduse într-un vector si sa se calculeze numarul de elemente pare si impare continute de acesta.
-
-Tema 4.8. Fiind date doua siruri de numere întregi v si u cu n, respectiv m elemente (m < n), sa se verifice daca u este subsir al lui v.
-
-Tema 4.9. Sa se citeasca de la tastatura n numere întregi, cu 1 < n < 50 si sa se memoreze într-un vector. Introduceti de la tastatura un numar întreg x si gasiti prima aparitie între elementele vectorului (cautare secventiala).
-
-Tema 4.10. Sa se citeasca de la tastatura n numere întregi, cu 1 < n < 50 si sa se memoreze într-un vector. Introduceti de la tastatura un numar întreg x si calculati frecventa de aparitie a acestuia în vector. Afisati pozitiile pe care a fost gasit.
-
-Tema 4.11. Fie un vector de valori întregi, cu 1 < n < 50, introdus de la tastatura. Sa se insereze numarul 0 pe prima pozitie a vectorului. Elementele initiale vor fi mutate cu o pozitie la dreapta.
-
-Tema 4.12. Se citesc de la tastatura n numere întregi în ordine crescatoare si un numar k. Sa se insereze k în sirul dat astfel încât acesta sa ramâna sortat crescator.
-
-Tema 4.13. Fiind dat un vector cu n numere reale diferite, mutati maximul din vector pe ultima pozitie a vectorului (prin interschimbarea maximului cu ultimul element).
-
-Tema 4.14. Sa se mute toate elementele dintr-un sir de n numere întregi egale cu un numar k la sfârsitul sirului.
-
-Tema 4.15. Compactati elementele unui vector cu n numere întregi. Prin compactare întelegem eliminarea elementelor nule din vector.
-
-Tema  4.16. Fiind dat un vector cu n elemente, numere întregi citite de la tastatura, mutati primul element pe pozitia pe care ar trebui sa se gaseasca daca vectorul ar fi sortat crescator. Mutati de asemenea, toate elemente mai mici în stânga acestuia, nu neaparat în ordine crescatoare si toate numerele mai mari în dreapta. Folositi o singura parcurgere a vectorului.
